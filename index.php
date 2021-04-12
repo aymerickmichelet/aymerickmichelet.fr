@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Aymerick MICHELET</title>
+  <title>Inconnu</title>
 
   <!-- Font Awesome Icons -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -69,8 +69,10 @@
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
-          <p class="text-white-75 font-weight-light mb-5">Recherche d'alternance en Septembre 2020<br>en tant que <b>Developpeur software</b></p>
+          <p class="text-white-75 font-weight-light mb-5">3ème année à l'<b><a href="https://www.epsi.fr/">EPSI Paris</a></b>,<br>en alternance chez <a href="https://www.meero.com">Meero</a> en tant que <b>Ingénieur QA</b></p>
           <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">En savoir plus</a>
+          <p class="text-white-75 font-weight-light mb-5">
+          </p>
         </div>
       </div>
     </div>
@@ -86,13 +88,14 @@
         <div class="col-lg-8 text-center">
           <h2 class="text-white mt-0">A propos de moi</h2>
           <hr class="divider light my-4">
-          <p class="text-white-50 mb-4">Bonjour je m'appelle Aymerick MICHELET, j'ai 19ans et suis étudiant à l'EPSI Paris (école d’ingénierie en informatique). Passionné d'informatique, envie de s'investir et d'entreprendre, je souhaite participer à la vie de votre entreprise pour apprendre et si possible, partager se que l'on m'a appris.</p>
+          <p class="text-white-50 mb-4">Bonjour je m'appelle Aymerick MICHELET, j'ai 20ans et je suis étudiant à l'<a href="https://www.epsi.fr/" style="color: white">EPSI Paris</a> (école d’ingénierie en informatique).<br>
+            J'ai intégré cette année <a href="https://www.meero.com" style="color: white">Meero</a> en alternance en tant que Ingénieur QA.</p>
           <a class="btn btn-light btn-xl js-scroll-trigger" href="#centerinterest">Mes passions</a>
         </div>
       </div>
     </div>
   </section>
-  
+
   <!-- Center Interest Section -->
   <section class="page-section" id="centerinterest">
     <div class="container">
