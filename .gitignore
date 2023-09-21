@@ -3,3 +3,5 @@ bower_components
 
 package-lock.json
 package.json
+.DS_Store
+*/.DS_Store
